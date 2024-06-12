@@ -1,0 +1,42 @@
+{
+	"nodes":[
+		{"id":"7bbe1db1a85c27d9","type":"text","text":"User clicks location service button ","x":-700,"y":-600,"width":250,"height":60},
+		{"id":"0f00abcd82d942b5","type":"text","text":"Getting information for that service from google","x":-430,"y":-202,"width":250,"height":60},
+		{"id":"43b7dc4b84621153","type":"text","text":"User enters in a location for which they want to search services for","x":-828,"y":-224,"width":273,"height":104},
+		{"id":"c07defeca90e3a15","type":"file","file":"2 - Source Material/IMG_4211.jpeg","x":40,"y":-743,"width":240,"height":519},
+		{"id":"609ae7eacd0ec608","type":"text","text":"Get reviews of the service","x":40,"y":-85,"width":250,"height":60},
+		{"id":"688b94d3bb3565c6","type":"text","text":"Get store hours and website","x":40,"y":29,"width":250,"height":60},
+		{"id":"cbeb8b6a939fa5f9","type":"text","text":"Getting service description","x":40,"y":120,"width":250,"height":60},
+		{"id":"3645f93f5433753d","type":"text","text":"Get a picture of the service","x":40,"y":-180,"width":250,"height":60},
+		{"id":"8406ff8d0d8961ce","type":"text","text":"Storing that information into a dictionary ","x":-555,"y":-55,"width":250,"height":60},
+		{"id":"880ce87a6f6ba3bd","type":"text","text":"Updating the information on the details page ","x":-450,"y":120,"width":250,"height":87},
+		{"id":"06f7ba188754a549","type":"text","text":"Redirected into a location page ","x":-700,"y":-400,"width":250,"height":60},
+		{"id":"4f8f43226c916316","type":"text","text":"Should make a location page similar to this ","x":-305,"y":-460,"width":250,"height":60},
+		{"id":"214945375a04a39f","type":"text","text":"How to webscrape the information for a specific service","x":-409,"y":352,"width":269,"height":88},
+		{"id":"f817b6c268ebebe5","type":"text","text":"Use HTTPS to access the internet ","x":-60,"y":444,"width":250,"height":60},
+		{"id":"730916fdf27fc7dc","type":"text","text":"Prompt the user for the specific query ","x":-409,"y":540,"width":250,"height":60},
+		{"id":"524a3e6d4e322cbb","type":"text","text":"This will be in the `locations.dart` page","x":-60,"y":570,"width":250,"height":60},
+		{"id":"c76807ac22b07b26","type":"text","text":"Store this in a variable to be accessed into another file","x":-619,"y":780,"width":294,"height":100},
+		{"id":"103511df7e634a2a","type":"text","text":"Search the internet for the user inputted query","x":-280,"y":718,"width":220,"height":112},
+		{"id":"3a99948bfaece4b0","type":"text","text":"Search the serachpage for information about salons in the area the user entered","x":-140,"y":902,"width":205,"height":158}
+	],
+	"edges":[
+		{"id":"bb343bd101cdef33","fromNode":"0f00abcd82d942b5","fromSide":"bottom","toNode":"8406ff8d0d8961ce","toSide":"top"},
+		{"id":"deec2d7f6da58ead","fromNode":"8406ff8d0d8961ce","fromSide":"bottom","toNode":"880ce87a6f6ba3bd","toSide":"top"},
+		{"id":"78a4e1daa9b490ba","fromNode":"0f00abcd82d942b5","fromSide":"right","toNode":"3645f93f5433753d","toSide":"left"},
+		{"id":"c02b5825fd891b0a","fromNode":"0f00abcd82d942b5","fromSide":"right","toNode":"609ae7eacd0ec608","toSide":"left"},
+		{"id":"34a93bb2f134f79f","fromNode":"0f00abcd82d942b5","fromSide":"right","toNode":"688b94d3bb3565c6","toSide":"left"},
+		{"id":"74890e70448a9018","fromNode":"7bbe1db1a85c27d9","fromSide":"bottom","toNode":"06f7ba188754a549","toSide":"top"},
+		{"id":"e9735959014ba4ba","fromNode":"06f7ba188754a549","fromSide":"right","toNode":"4f8f43226c916316","toSide":"left"},
+		{"id":"f67a9a89ade4a0bf","fromNode":"4f8f43226c916316","fromSide":"right","toNode":"c07defeca90e3a15","toSide":"left"},
+		{"id":"4218d7145500e60d","fromNode":"06f7ba188754a549","fromSide":"bottom","toNode":"43b7dc4b84621153","toSide":"top"},
+		{"id":"fb49464c9dae5f04","fromNode":"43b7dc4b84621153","fromSide":"right","toNode":"0f00abcd82d942b5","toSide":"left"},
+		{"id":"09e66828bb55c51a","fromNode":"0f00abcd82d942b5","fromSide":"right","toNode":"cbeb8b6a939fa5f9","toSide":"left"},
+		{"id":"45cf40a3762fc943","fromNode":"214945375a04a39f","fromSide":"bottom","toNode":"730916fdf27fc7dc","toSide":"top"},
+		{"id":"37009dc599e67cee","fromNode":"730916fdf27fc7dc","fromSide":"bottom","toNode":"c76807ac22b07b26","toSide":"top"},
+		{"id":"cfa534e43e4d8de8","fromNode":"214945375a04a39f","fromSide":"right","toNode":"f817b6c268ebebe5","toSide":"left"},
+		{"id":"67df2c784925b4e9","fromNode":"730916fdf27fc7dc","fromSide":"right","toNode":"524a3e6d4e322cbb","toSide":"left"},
+		{"id":"796473759db94c9b","fromNode":"730916fdf27fc7dc","fromSide":"bottom","toNode":"103511df7e634a2a","toSide":"top"},
+		{"id":"a41985cf8cae6c47","fromNode":"103511df7e634a2a","fromSide":"bottom","toNode":"3a99948bfaece4b0","toSide":"top"}
+	]
+}

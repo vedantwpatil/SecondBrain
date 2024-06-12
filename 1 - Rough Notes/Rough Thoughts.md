@@ -1,0 +1,4 @@
+- I’ll talk about how I feel like im turning into the worst parts of my dad as well as loneliness
+	- I just had a moment of silent screaming similar to my father were he would grit his teeth and then silently scream into his hands 
+	- I feel like im experiencing alot of loneliness with me feeling like I'll be forever alone and that im not in the correct mental state to be with somebody
+	- I need to change fast

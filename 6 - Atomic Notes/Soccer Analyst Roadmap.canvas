@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"394b2ed8d6c25676","type":"group","x":-440,"y":-251,"width":710,"height":233,"label":"Training an Model"},
+		{"id":"c29c36d09f6e6f8e","type":"text","text":"Soccer Analyst","x":-275,"y":-360,"width":202,"height":50},
+		{"id":"45c4c6fdc7478c82","type":"text","text":"Identify people and objects","x":-184,"y":-231,"width":216,"height":71},
+		{"id":"482d4c8b16accfdb","type":"text","text":"Identify the ball","x":48,"y":-88,"width":202,"height":50},
+		{"id":"f630f487cda8c5cc","type":"text","text":"Identify a player","x":-177,"y":-88,"width":202,"height":50},
+		{"id":"d517376938b76d95","type":"text","text":"Identify a referee","x":-404,"y":-88,"width":202,"height":50},
+		{"id":"a610056173c0d6aa","type":"text","text":"Get a dataset which is labeled with players and have the model identify patterns. Additionally, the dataset needs to be varied ","x":314,"y":120,"width":306,"height":140},
+		{"id":"dbb5c63e0ee7c73f","x":760,"y":144,"width":236,"height":136,"type":"text","text":"Using a supervised learning training method, train the model"},
+		{"id":"d62011c600f7c88b","type":"text","text":"Attach labels to the bounding boxes ","x":-205,"y":444,"width":250,"height":60},
+		{"id":"666e6660bcb0e519","type":"text","text":"Attach the player's name and jersey number","x":64,"y":587,"width":253,"height":113},
+		{"id":"2939e4fb92e106c3","type":"text","text":"Using the dimensions of the bounding boxes we can calculate the area to draw the labels on","x":196,"y":400,"width":261,"height":140},
+		{"id":"50866820b8ea7f72","type":"text","text":"Don't display the entire bounding box but just a reticle underneath the player","x":-418,"y":651,"width":287,"height":98},
+		{"id":"6dacb52b5b0eb174","type":"text","text":"Run calculations to figure out player speed","x":-73,"y":847,"width":250,"height":60},
+		{"id":"026cade642bf3a0a","type":"text","text":"Need to learn how to calculate a player's speed based off of the camera and distance traveled","x":250,"y":983,"width":250,"height":177},
+		{"id":"bb5527b435ae15db","x":416,"y":1240,"width":344,"height":202,"type":"text","text":"We can use the bounding boxes of the players and calculate how much the pixels have moved from frame the frame and combine that to calculate how fast the player/bounding box is moving across that second"}
+	],
+	"edges":[
+		{"id":"5b8b87d4ca00f7a7","fromNode":"c29c36d09f6e6f8e","fromSide":"bottom","toNode":"45c4c6fdc7478c82","toSide":"top"},
+		{"id":"b31809ee063b7678","fromNode":"45c4c6fdc7478c82","fromSide":"bottom","toNode":"d517376938b76d95","toSide":"top"},
+		{"id":"c77e5fc65d1d260a","fromNode":"45c4c6fdc7478c82","fromSide":"bottom","toNode":"f630f487cda8c5cc","toSide":"top"},
+		{"id":"d403d6cb2309901b","fromNode":"45c4c6fdc7478c82","fromSide":"bottom","toNode":"482d4c8b16accfdb","toSide":"top"},
+		{"id":"f32bf61178588627","fromNode":"d517376938b76d95","fromSide":"bottom","toNode":"d62011c600f7c88b","toSide":"top"},
+		{"id":"530b72364dc706fc","fromNode":"f630f487cda8c5cc","fromSide":"bottom","toNode":"d62011c600f7c88b","toSide":"top"},
+		{"id":"1f8fbf2edd2a87d6","fromNode":"482d4c8b16accfdb","fromSide":"bottom","toNode":"d62011c600f7c88b","toSide":"top"},
+		{"id":"93664f85ae3c5915","fromNode":"d62011c600f7c88b","fromSide":"bottom","toNode":"666e6660bcb0e519","toSide":"top"},
+		{"id":"393743405be79b78","fromNode":"d62011c600f7c88b","fromSide":"bottom","toNode":"50866820b8ea7f72","toSide":"top"},
+		{"id":"98a43275a0dafbe3","fromNode":"50866820b8ea7f72","fromSide":"right","toNode":"6dacb52b5b0eb174","toSide":"left"},
+		{"id":"cda2885ee3f46cc5","fromNode":"666e6660bcb0e519","fromSide":"bottom","toNode":"6dacb52b5b0eb174","toSide":"right"},
+		{"id":"a47e51d68c926d30","fromNode":"6dacb52b5b0eb174","fromSide":"right","toNode":"026cade642bf3a0a","toSide":"left"},
+		{"id":"621a00cbe983abc2","fromNode":"d62011c600f7c88b","fromSide":"right","toNode":"2939e4fb92e106c3","toSide":"left"},
+		{"id":"604fc474e6a5b0cb","fromNode":"f630f487cda8c5cc","fromSide":"bottom","toNode":"a610056173c0d6aa","toSide":"left"},
+		{"id":"80a5fea345fc3699","fromNode":"d517376938b76d95","fromSide":"bottom","toNode":"a610056173c0d6aa","toSide":"left"},
+		{"id":"b7071601ce4d9c29","fromNode":"482d4c8b16accfdb","fromSide":"bottom","toNode":"a610056173c0d6aa","toSide":"left"},
+		{"id":"7f00eb9feade5bb5","fromNode":"a610056173c0d6aa","fromSide":"right","toNode":"dbb5c63e0ee7c73f","toSide":"left"},
+		{"id":"b940adf2936466a2","fromNode":"026cade642bf3a0a","fromSide":"bottom","toNode":"bb5527b435ae15db","toSide":"top"}
+	]
+}

@@ -1,0 +1,3 @@
+- Thankful for family 
+- Thankful for the academic resources the school provides us like the MRC
+- Thankful for having friends who were willing to sacrifice their time 
