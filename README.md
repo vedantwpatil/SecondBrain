@@ -3,4 +3,7 @@ All of the files in this repository are written in markdown and are written usin
 
 ### What is Obsidian
 Obsidian as mentioned earlier is a editor which writes files in markdown which is a text language which allows for easy customization of headers, bolding and italizing as well as importing images and other links. 
-The main premise of obsidian is the file linking feature which allows for you to visualize the connections which you should be making form topic to topic. 
+The main premise of obsidian is the file linking feature which allows for you to visualize the connections which you should be making form topic to topic. Obsidian does this by using markdown.
+
+### What is markdown
+Markdown as mentioned earlier is a langauge which allows for easy styling and customization of the file simply by using common comamnds such as # for the size of the text, ** for italizing and bolding and other features like - for a unordered list of items and || for tables 
