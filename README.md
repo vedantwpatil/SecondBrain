@@ -1,1 +1,6 @@
 # SecondBrain
+All of the files in this repository are written in markdown and are written using something called obsidian which is a markdown file editor. Obsidian has vaults which are different ways of holding all your files. Obsidian links all the files together which is it's unqiue component. 
+
+### What is Obsidian
+Obsidian as mentioned earlier is a editor which writes files in markdown which is a text language which allows for easy customization of headers, bolding and italizing as well as importing images and other links. 
+The main premise of obsidian is the file linking feature which allows for you to visualize the connections which you should be making form topic to topic. 
