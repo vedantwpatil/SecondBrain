@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "file": "6 - Atomic Notes/Introduction to Algorithms.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "file": "6 - Atomic Notes/Introduction to Algorithms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -88,19 +88,19 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.518713248970312,
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6044402177207019,
+                  "scale": 0.4935409062298806,
                   "close": true
                 }
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "file": "6 - Atomic Notes/Introduction to Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "file": "6 - Atomic Notes/Introduction to Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md"
+                "file": "6 - Atomic Notes/Introduction to Algorithms.md"
               }
             }
           }
@@ -187,11 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3c2136610c203fa",
+  "active": "8f1c466d537c62cd",
   "lastOpenFiles": [
+    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+    "1 - Rough Notes/Todo.md",
+    "6 - Atomic Notes/Blue Giant.md",
+    "README.md",
     "6 - Atomic Notes/Foundations.md",
     "6 - Atomic Notes/Insertion Sort.md",
-    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
     "6 - Atomic Notes/Merge Sort.md",
     "6 - Atomic Notes/Introduction to Algorithms.md",
     "6 - Atomic Notes/Limit Comparison Test.md",

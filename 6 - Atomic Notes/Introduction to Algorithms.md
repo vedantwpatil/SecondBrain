@@ -15,7 +15,7 @@ Tags:
 - Assumes unbounded amount of memory which is able to access any element in constant time 
 - Counts the number of machine instructions executed to measure running time
 ### Chapters
-- [[Foundations]]
+- [[Foundations]] 
 - [[Sorting and Ordering Statstics]]
 - [[Data Structures]]
 - [[Advanced Design and Analysis Techniques]]
