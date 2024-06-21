@@ -1,8 +1,8 @@
 {
   "accentColor": "",
-  "cssTheme": "Obsidian Nord",
+  "cssTheme": "Catppuccin",
   "interfaceFontFamily": "",
-  "textFontFamily": "",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font",
   "translucency": true,
   "theme": "obsidian",
   "baseFontSizeAction": false

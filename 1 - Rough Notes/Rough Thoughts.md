@@ -2,3 +2,5 @@
 	- I just had a moment of silent screaming similar to my father were he would grit his teeth and then silently scream into his hands 
 	- I feel like im experiencing alot of loneliness with me feeling like I'll be forever alone and that im not in the correct mental state to be with somebody
 	- I need to change fast
+- I feel as though im not a good person and that I don't deserve happiness 
+	- I find myself often disregarding alot of my blessings and not making the most of the opportunities I've been given

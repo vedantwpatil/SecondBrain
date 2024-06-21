@@ -11,8 +11,12 @@
             "id": "8f1c466d537c62cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -62,10 +66,51 @@
             }
           }
         ]
+      },
+      {
+        "id": "a8c8bb54aec10755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3c2136610c203fa",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6044402177207019,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 250
   },
   "right": {
     "id": "72f51d2a25ab18e5",
@@ -81,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md"
+              }
             }
           }
         ]
@@ -138,17 +187,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1c466d537c62cd",
+  "active": "b3c2136610c203fa",
   "lastOpenFiles": [
-    "titles.md",
-    "nvim",
+    "6 - Atomic Notes/Foundations.md",
+    "6 - Atomic Notes/Insertion Sort.md",
+    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+    "6 - Atomic Notes/Merge Sort.md",
+    "6 - Atomic Notes/Introduction to Algorithms.md",
+    "6 - Atomic Notes/Limit Comparison Test.md",
+    "4 - Indexes/Convergence and Divergence Tests.md",
+    "6 - Atomic Notes/Divergence Test.md",
+    "1 - Rough Notes/Rough Thoughts.md",
+    "6 - Atomic Notes/Civic Engagement Essay.md",
+    "6 - Atomic Notes/Shopping.md",
+    "6 - Atomic Notes/Calc Final Prep.md",
     "contents.md",
+    "titles.md",
+    "6 - Atomic Notes/Companies to Apply To.md",
+    "6 - Atomic Notes/Comparison Test.md",
+    "6 - Atomic Notes/Computing Informatics Script.md",
+    "6 - Atomic Notes/Chess.md",
+    "6 - Atomic Notes/Memory Postcards.md",
+    "6 - Atomic Notes/Memory Postcards.md",
+    "nvim",
     "6 - Atomic Notes/Multi Final Prep.md",
     "6 - Atomic Notes/BreakupText.md",
-    "1 - Rough Notes/Rough Thoughts.md",
-    "1 - Rough Notes/In Class English.md",
-    "6 - Atomic Notes/Memory Postcards.md",
-    "6 - Atomic Notes/Memory Postcards-Vedant’s MacBook Pro.md",
-    "6 - Atomic Notes/Divergence Test.md"
+    "1 - Rough Notes/In Class English.md"
   ]
 }
