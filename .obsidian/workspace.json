@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60d95962476d7dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Foundations.md",
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Foundations.md",
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Foundations.md",
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Foundations.md"
+                "file": "6 - Atomic Notes/The Role of Algorithms in Computing.md"
               }
             }
           }
@@ -187,14 +200,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1c466d537c62cd",
+  "active": "60d95962476d7dba",
   "lastOpenFiles": [
-    "6 - Atomic Notes/Introduction to Algorithms.md",
+    "6 - Atomic Notes/Foundations.md",
     "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+    "6 - Atomic Notes/Introduction to Algorithms.md",
     "1 - Rough Notes/Todo.md",
     "6 - Atomic Notes/Blue Giant.md",
     "README.md",
-    "6 - Atomic Notes/Foundations.md",
     "6 - Atomic Notes/Insertion Sort.md",
     "6 - Atomic Notes/Merge Sort.md",
     "6 - Atomic Notes/Limit Comparison Test.md",
