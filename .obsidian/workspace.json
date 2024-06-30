@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69816357ec32987e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -200,7 +210,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "119809530feb4a86",
+  "active": "69816357ec32987e",
   "lastOpenFiles": [
     "6 - Atomic Notes/Insertion Sort.md",
     "6 - Atomic Notes/Analyzing Algorithms.md",
