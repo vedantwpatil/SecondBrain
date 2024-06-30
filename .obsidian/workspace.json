@@ -25,19 +25,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Divide and Conquer.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69816357ec32987e",
+            "id": "268c151019574382",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "6 - Atomic Notes/Merge Sort.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -100,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Merge Sort.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -123,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5361364830954952,
+                  "scale": 0.49270807750126927,
                   "close": true
                 }
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Merge Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Merge Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md"
+                "file": "6 - Atomic Notes/Merge Sort.md"
               }
             }
           }
@@ -210,18 +212,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69816357ec32987e",
+  "active": "268c151019574382",
   "lastOpenFiles": [
     "6 - Atomic Notes/Insertion Sort.md",
+    "6 - Atomic Notes/Merge Sort.md",
+    "6 - Atomic Notes/Divide and Conquer.md",
     "6 - Atomic Notes/Analyzing Algorithms.md",
     "6 - Atomic Notes/Foundations.md",
+    "6 - Atomic Notes/Introduction to Algorithms.md",
     "6 - Atomic Notes/The Role of Algorithms in Computing.md",
     "The Role of Algorithms in Computing.pdf",
-    "6 - Atomic Notes/Introduction to Algorithms.md",
     "1 - Rough Notes/Todo.md",
     "6 - Atomic Notes/Blue Giant.md",
     "README.md",
-    "6 - Atomic Notes/Merge Sort.md",
     "6 - Atomic Notes/Limit Comparison Test.md",
     "4 - Indexes/Convergence and Divergence Tests.md",
     "6 - Atomic Notes/Divergence Test.md",
@@ -238,7 +241,6 @@
     "6 - Atomic Notes/Memory Postcards.md",
     "6 - Atomic Notes/Memory Postcards.md",
     "nvim",
-    "6 - Atomic Notes/Multi Final Prep.md",
-    "6 - Atomic Notes/BreakupText.md"
+    "6 - Atomic Notes/Multi Final Prep.md"
   ]
 }

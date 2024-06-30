@@ -47,4 +47,28 @@ These are
 The best notion for determining input size is still debated about and depends on the problem being studied. For many problems, it makes the most sense to use the number of items in that input, such as using n number of items in a list. For other problems it makes more sense to use the total number of bits used to represent the input size.
 
 ### Running Time
-**Definition:** The number of instructions and data accesses executed. We make this calculation within the [[#Ram Model]]. We assume that a constant amount of time is required to execute each line of pseudocode
+**Definition:** The number of instructions and data accesses executed. We make this calculation within the [[#Ram Model]]. We assume that a constant amount of time is required to execute each line of pseudocode.
+
+#### Case Analysis 
+**Definition:** Analysis of algorithms contain the best case, average case and worse case analysis which all can be different values depending on the situation. For sorting algorithms, the best case will always be O(0) meaning that the input list is already sorted, with the average and worst cases changing depending on the algorithm.
+
+It is important to know about these separate cases as it allows to generally estimate the effectiveness of certain algorithms.
+
+The worst case is often used as a benchmark and an upper bound that guarantees the algorithm will never take any longer. The average case is usually as bad as the worst case.
+
+
+#### Order of Growth
+There are a bunch of abstractions used to allow us to analyze an algorithm, another one is called the rate of growth and is used to measure the [[#Running Time]]. We mainly consider the leading term in a function because it will affect the speed of growth the most out of all the terms. A quadratic term will not grow as fast as a linear term.
+
+**Big O Notation:**
+Uses the Greek letter $\theta$ to measure the time and space complexity of algorithms. In modern English it is instead just called Big O, some common complexities are 
+- $O(1)$
+	- Constant time.
+- $O(n)$
+	- Linear time.
+- $O(n^2)$
+	- Quadratic time.
+
+
+
+

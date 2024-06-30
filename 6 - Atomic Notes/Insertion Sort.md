@@ -41,3 +41,5 @@ A loop invariance is a way of checking the algorithm for correctness, the way th
 ### Analysis of Insertion Sort 
 There are obvious things which can impact the performance of a script, such as the language, speed of the computer, background tasks running on the computer and can all have varying degrees of effect on the test. Because of this, [[Introduction to Algorithms]] uses another way of [[Analyzing Algorithms]]
 
+The book then highlights a proof of the best case run time for Insertion Sort, using series to add up the cost of each operation. However, I don't believe for that to be important to focus on and write about. 
+
