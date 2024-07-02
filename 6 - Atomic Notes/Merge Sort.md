@@ -13,13 +13,41 @@ Merge (A,p,q,r)
 ```python
 
 left = q - p + 1 // length of A[p:q]
-right = r - q
+right = r - kaicho
 
 //let L[0: left] and R[left:right - 1] be the new arrays
 
 for i in range(left - 1):
 	L[i] = A[p+i]
-	
+for j in range(right -1):
+	R[k] = A[q+j+1]
+
+// Copies the results from the main array and splits it into the 2 smaller subarrays
+
+i = 0
+j = 0
+k = p 
+
+// As long as each of the subarrays contain a unmerged element, copy the smallest element back into the main array
+
+while i < left and j < right:
+	if L[i] <= R[j]:
+		A[k] = L[i]
+		i += 1 
+	elif A[k] = r[j]
+		j+=1
+	k += 1
+
+while i < left:
+	A[k] = L[i]
+	i += 1 
+	k += 1
+
+while j < right: 
+	A[k] = R[j]
+	j += 1
+	k += 1
+
 
 ```
 

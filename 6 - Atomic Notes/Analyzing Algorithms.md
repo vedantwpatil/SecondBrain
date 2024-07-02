@@ -56,6 +56,8 @@ It is important to know about these separate cases as it allows to generally est
 
 The worst case is often used as a benchmark and an upper bound that guarantees the algorithm will never take any longer. The average case is usually as bad as the worst case.
 
+#### Notation
+By using different symbols, the time complexity can mean different things. For example, using a O(n) to measure the time complexity characterizes an upper bound on the function, meaning that the function grows no faster than O(n). Using omega notation characterizes a lower bound and using a theta notation characterizes a tight bound, meaning it will always grow at a certain rate. 
 
 #### Order of Growth
 There are a bunch of abstractions used to allow us to analyze an algorithm, another one is called the rate of growth and is used to measure the [[#Running Time]]. We mainly consider the leading term in a function because it will affect the speed of growth the most out of all the terms. A quadratic term will not grow as fast as a linear term.
