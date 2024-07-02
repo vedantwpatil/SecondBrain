@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "np-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a8c8bb54aec10755",
@@ -126,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.1660692977954592,
+                  "scale": 0.6587629578111487,
                   "close": true
                 }
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md"
+                "file": "6 - Atomic Notes/Soccer Analyst.md"
               }
             }
           }
@@ -238,13 +239,14 @@
   },
   "active": "f45dcd0ea94b8af9",
   "lastOpenFiles": [
+    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+    "6 - Atomic Notes/Soccer Analyst.md",
+    "6 - Atomic Notes/Analyzing Algorithms.md",
     "6 - Atomic Notes/Insertion Sort.md",
     "6 - Atomic Notes/Divide and Conquer.md",
     "6 - Atomic Notes/Merge Sort.md",
-    "6 - Atomic Notes/Analyzing Algorithms.md",
     "6 - Atomic Notes/Foundations.md",
     "6 - Atomic Notes/Introduction to Algorithms.md",
-    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
     "The Role of Algorithms in Computing.pdf",
     "1 - Rough Notes/Todo.md",
     "6 - Atomic Notes/Blue Giant.md",
@@ -264,7 +266,6 @@
     "6 - Atomic Notes/Chess.md",
     "6 - Atomic Notes/Memory Postcards.md",
     "6 - Atomic Notes/Memory Postcards.md",
-    "nvim",
-    "6 - Atomic Notes/Multi Final Prep.md"
+    "nvim"
   ]
 }
