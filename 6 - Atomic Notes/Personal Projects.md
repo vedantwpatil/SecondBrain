@@ -11,7 +11,9 @@ Tags:
 #### Planning Personal Projects
 
 [[Soccer Analyst]]
-
+[[Surge]]
+[[Pins]]
+[[Chess]]
 # Template
 - ### Examples of how to format projects on my resume
 	
