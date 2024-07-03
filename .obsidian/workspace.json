@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a5766719d7bb3222",
+        "id": "b2845334faf5f546",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1c466d537c62cd",
+            "id": "e1aa49b8ad3d40bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Personal Projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "585e7e3b87d3b51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Surge.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Surge.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Surge.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Surge.md",
+                "file": "6 - Atomic Notes/Soccer Analyst.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Surge.md"
+                "file": "6 - Atomic Notes/Soccer Analyst.md"
               }
             }
           }
@@ -200,11 +187,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "585e7e3b87d3b51d",
+  "active": "e1aa49b8ad3d40bd",
   "lastOpenFiles": [
+    "6 - Atomic Notes/Computer Science.md",
     "6 - Atomic Notes/Personal Projects.md",
-    "6 - Atomic Notes/Pins.md",
+    "6 - Atomic Notes/Computer Vision.md",
+    "6 - Atomic Notes/Soccer Analyst.md",
     "6 - Atomic Notes/Surge.md",
+    "6 - Atomic Notes/Pins.md",
     "6 - Atomic Notes/Chess.md",
     "4 - Indexes/Neetcode.md",
     "6 - Atomic Notes/Divide and Conquer.md",
@@ -225,9 +215,6 @@
     "6 - Atomic Notes/Trapping Rain Water.md",
     "6 - Atomic Notes/Leetcode.md",
     "6 - Atomic Notes/Insertion Sort.md",
-    "6 - Atomic Notes/Soccer Analyst.md",
-    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
-    "6 - Atomic Notes/Analyzing Algorithms.md",
     "The Role of Algorithms in Computing.pdf",
     "nvim"
   ]
