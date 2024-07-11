@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "1 - Rough Notes/Rough Thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02a222e07aa76307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/Pokemon Cheats.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/Pokemon Cheats.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/Pokemon Cheats.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/Pokemon Cheats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md"
+                "file": "6 - Atomic Notes/Pokemon Cheats.md"
               }
             }
           }
@@ -187,10 +200,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1aa49b8ad3d40bd",
+  "active": "02a222e07aa76307",
   "lastOpenFiles": [
-    "4 - Indexes/Neetcode.md",
+    "1 - Rough Notes/Rough Thoughts.md",
+    "6 - Atomic Notes/Pokemon Cheats.md",
+    "1 - Rough Notes/CIVC Journal 2.md",
     "6 - Atomic Notes/Valid Anagram.md",
+    "4 - Indexes/Neetcode.md",
     "6 - Atomic Notes/Soccer Analyst.md",
     "6 - Atomic Notes/HashMap.md",
     "6 - Atomic Notes/Contains Duplicate.md",
@@ -213,9 +229,6 @@
     "6 - Atomic Notes/Longest Consecutive Sequence.md",
     "6 - Atomic Notes/Valid Palindrome.md",
     "6 - Atomic Notes/Two Sum II Input Array is Sorted.md",
-    "6 - Atomic Notes/3Sum.md",
-    "6 - Atomic Notes/Container With Most Water.md",
-    "6 - Atomic Notes/Trapping Rain Water.md",
     "The Role of Algorithms in Computing.pdf",
     "nvim"
   ]
