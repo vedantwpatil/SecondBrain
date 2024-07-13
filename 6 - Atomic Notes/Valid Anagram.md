@@ -50,6 +50,7 @@ class Solution(object):
 	return letter_count_s == letter_count_t
 ```
 
+#### Solution:
 We can use the data structure a [[HashMap]] where each value in the set contains a hash value which ensures that only unique values are in the set. 
 
 To check if the two strings are anagrams of each other we first need to check if they are the same length, if they aren't its then impossible for them to be a solution of each other. After this we create 2 different [[HashMap]]s and add all the count of letters of each word. After this we can check if the letter counts of both words are equivaliant, if they are we return true that this is a anagram, if not we return false that this is not a anagram. 
