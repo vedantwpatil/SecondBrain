@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Two Sum.md",
+                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Two Sum.md",
+                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Two Sum.md",
+                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Two Sum.md"
+                "file": "6 - Atomic Notes/Analyzing Algorithms.md"
               }
             }
           }
@@ -199,8 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "919b6f3a263fef74",
+  "active": "e2ac7e11339f4177",
   "lastOpenFiles": [
+    "6 - Atomic Notes/Insertion Sort.md",
+    "6 - Atomic Notes/The Role of Algorithms in Computing.md",
+    "6 - Atomic Notes/Foundations.md",
+    "6 - Atomic Notes/Introduction to Algorithms.md",
     "6 - Atomic Notes/Valid Anagram.md",
     "6 - Atomic Notes/Two Sum.md",
     "4 - Indexes/Neetcode.md",
@@ -224,10 +229,6 @@
     "6 - Atomic Notes/Top K Frequent Elements.md",
     "6 - Atomic Notes/Encode and Decode Strings.md",
     "6 - Atomic Notes/Product of Array Except Self.md",
-    "6 - Atomic Notes/Valid Sudoku.md",
-    "6 - Atomic Notes/Longest Consecutive Sequence.md",
-    "6 - Atomic Notes/Valid Palindrome.md",
-    "6 - Atomic Notes/Two Sum II Input Array is Sorted.md",
     "The Role of Algorithms in Computing.pdf",
     "nvim"
   ]
