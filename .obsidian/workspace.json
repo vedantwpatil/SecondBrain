@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4606a9baa6e3348",
+        "id": "a007023412d59866",
         "type": "tabs",
         "children": [
           {
-            "id": "029b9172457145c6",
+            "id": "f417711dc48df2d4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "029b9172457145c6",
+  "active": "f417711dc48df2d4",
   "lastOpenFiles": [
+    "6 - Atomic Notes/Pokemon Cheats.md",
     "6 - Atomic Notes/Two Sum.md",
     "6 - Atomic Notes/Analyzing Algorithms.md",
     "6 - Atomic Notes/Insertion Sort.md",
@@ -190,7 +191,6 @@
     "4 - Indexes/Neetcode.md",
     "6 - Atomic Notes/HashMap.md",
     "1 - Rough Notes/Rough Thoughts.md",
-    "6 - Atomic Notes/Pokemon Cheats.md",
     "1 - Rough Notes/CIVC Journal 2.md",
     "6 - Atomic Notes/Soccer Analyst.md",
     "6 - Atomic Notes/Contains Duplicate.md",
