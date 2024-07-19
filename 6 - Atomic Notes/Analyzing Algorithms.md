@@ -70,6 +70,8 @@ Another way to think about this is that O(n) is the worst case scenario with the
 #### Order of Growth
 There are a bunch of abstractions used to allow us to analyze an algorithm, another one is called the rate of growth and is used to measure the [[#Running Time]]. We mainly consider the leading term in a function because it will affect the speed of growth the most out of all the terms. A quadratic term will not grow as fast as a linear term.
 
+**Definition:** [[1721349414-QEFU|Running Times]]
+
 **Big O Notation:**
 Despite there being 3 symbols to represent time complexities, we primarily use one and that is big O. This is because it is more valauble to know the worst case scenario rather than knowing the best or average case. 
 
