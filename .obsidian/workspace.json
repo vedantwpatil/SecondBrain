@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d43349b1a97a2d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 - Atomic Notes/1721345329-BKAU.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/1721345329-BKAU.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/1721345329-BKAU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
+                "file": "6 - Atomic Notes/1721345329-BKAU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md"
+                "file": "6 - Atomic Notes/1721345329-BKAU.md"
               }
             }
           }
@@ -187,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f417711dc48df2d4",
+  "active": "d43349b1a97a2d4e",
   "lastOpenFiles": [
     "6 - Atomic Notes/Pokemon Cheats.md",
     "6 - Atomic Notes/2024-07-17.md",

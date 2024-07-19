@@ -1,3 +1,9 @@
+---
+id: Analyzing Algorithms
+aliases: []
+tags: []
+---
+
 2024-06-24 21:36
 
 Status: 
@@ -59,11 +65,17 @@ The worst case is often used as a benchmark and an upper bound that guarantees t
 #### Notation
 By using different symbols, the time complexity can mean different things. For example, using a O(n) to measure the time complexity characterizes an upper bound on the function, meaning that the function grows no faster than O(n). Using omega notation characterizes a lower bound and using a theta notation characterizes a tight bound, meaning it will always grow at a certain rate. 
 
+Another way to think about this is that O(n) is the worst case scenario with the symbol thetha representing the best case scenario and that the omega symbol represents the average scenario
+
 #### Order of Growth
 There are a bunch of abstractions used to allow us to analyze an algorithm, another one is called the rate of growth and is used to measure the [[#Running Time]]. We mainly consider the leading term in a function because it will affect the speed of growth the most out of all the terms. A quadratic term will not grow as fast as a linear term.
 
 **Big O Notation:**
-Uses the Greek letter $\theta$ to measure the time and space complexity of algorithms. In modern English it is instead just called Big O, some common complexities are 
+Despite there being 3 symbols to represent time complexities, we primarily use one and that is big O. This is because it is more valauble to know the worst case scenario rather than knowing the best or average case. 
+
+In most algorithms the worst case time complexity often skews the average speed alot, making it a statistic that we don't care that much about.
+
+Some of the common time complexities are 
 - $O(1)$
 	- Constant time.
 - $O(n)$
@@ -71,6 +83,7 @@ Uses the Greek letter $\theta$ to measure the time and space complexity of algor
 - $O(n^2)$
 	- Quadratic time.
 
+Knowing time complexities are very important as its one of the things tested by a [[Software Engineer]]ing interview. Something that people use to practice for this and learn their algorithms time complexities is [[Neetcode]]
 
 
 
