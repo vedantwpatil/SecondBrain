@@ -1,3 +1,9 @@
+---
+id: Merge Sort
+aliases: []
+tags: []
+---
+
 2024-06-02 01:09
 
 Status: 
@@ -13,7 +19,7 @@ Merge (A,p,q,r)
 ```python
 
 left = q - p + 1 // length of A[p:q]
-right = r - kaicho
+right = r - q
 
 //let L[0: left] and R[left:right - 1] be the new arrays
 

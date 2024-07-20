@@ -55,37 +55,12 @@ The best notion for determining input size is still debated about and depends on
 ### Running Time
 **Definition:** The number of instructions and data accesses executed. We make this calculation within the [[#Ram Model]]. We assume that a constant amount of time is required to execute each line of pseudocode.
 
+While analyzing an algorithm there are many different ways to characterize the speed of the algorithm, there is a set lanaguage of symbols used to denote the speed of the algorithm. This is gone into more depth here [[1721349414-QEFU|running times]]]
+
 #### Case Analysis 
 **Definition:** Analysis of algorithms contain the best case, average case and worse case analysis which all can be different values depending on the situation. For sorting algorithms, the best case will always be O(0) meaning that the input list is already sorted, with the average and worst cases changing depending on the algorithm.
 
 It is important to know about these separate cases as it allows to generally estimate the effectiveness of certain algorithms.
 
 The worst case is often used as a benchmark and an upper bound that guarantees the algorithm will never take any longer. The average case is usually as bad as the worst case.
-
-#### Notation
-By using different symbols, the time complexity can mean different things. For example, using a O(n) to measure the time complexity characterizes an upper bound on the function, meaning that the function grows no faster than O(n). Using omega notation characterizes a lower bound and using a theta notation characterizes a tight bound, meaning it will always grow at a certain rate. 
-
-Another way to think about this is that O(n) is the worst case scenario with the symbol thetha representing the best case scenario and that the omega symbol represents the average scenario
-
-#### Order of Growth
-There are a bunch of abstractions used to allow us to analyze an algorithm, another one is called the rate of growth and is used to measure the [[#Running Time]]. We mainly consider the leading term in a function because it will affect the speed of growth the most out of all the terms. A quadratic term will not grow as fast as a linear term.
-
-**Definition:** [[1721349414-QEFU|Running Times]]
-
-**Big O Notation:**
-Despite there being 3 symbols to represent time complexities, we primarily use one and that is big O. This is because it is more valauble to know the worst case scenario rather than knowing the best or average case. 
-
-In most algorithms the worst case time complexity often skews the average speed alot, making it a statistic that we don't care that much about.
-
-Some of the common time complexities are 
-- $O(1)$
-	- Constant time.
-- $O(n)$
-	- Linear time.
-- $O(n^2)$
-	- Quadratic time.
-
-Knowing time complexities are very important as its one of the things tested by a [[Software Engineer]]ing interview. Something that people use to practice for this and learn their algorithms time complexities is [[Neetcode]]
-
-
 
