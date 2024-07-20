@@ -1,3 +1,9 @@
+---
+id: Divide and Conquer
+aliases: []
+tags: []
+---
+
 2024-06-30 00:51
 
 Status: 
@@ -18,3 +24,15 @@ If the problem is small enough, you can solve it without recursing otherwise the
 **Combine** the subproblem solutions to find a general solution 
 
 One of the most mainstream sorting algorithms which follow this methodology is the [[Merge Sort]]
+
+### Recurrences
+
+**Definition:** Recurrences are equations which describes a function by how it effects other smaller arguements, in other words is a function which describes a sequence recursively. 
+
+The general for of a recurence is a equation or inequality which describes a function by using the function itself and some smaller integers. If the case contains the original function describing itself in smaller iterations then thats the recursive case and if the function does not contain that then it is the base case. 
+
+The general thought process is that if there is no explicit base case we can assume that the recurrnece is algorithmic instead of recursive.
+
+There is a more mathematical approach to recurences and these will pop up later in math so I'll tag this here [[Recurrences|Recurrences]]
+
+

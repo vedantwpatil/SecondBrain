@@ -55,7 +55,7 @@ The best notion for determining input size is still debated about and depends on
 ### Running Time
 **Definition:** The number of instructions and data accesses executed. We make this calculation within the [[#Ram Model]]. We assume that a constant amount of time is required to execute each line of pseudocode.
 
-While analyzing an algorithm there are many different ways to characterize the speed of the algorithm, there is a set lanaguage of symbols used to denote the speed of the algorithm. This is gone into more depth here [[1721349414-QEFU|running times]]]
+While analyzing an algorithm there are many different ways to characterize the speed of the algorithm, there is a set lanaguage of symbols used to denote the speed of the algorithm. This is gone into more depth here [[Running Times|running times]]
 
 #### Case Analysis 
 **Definition:** Analysis of algorithms contain the best case, average case and worse case analysis which all can be different values depending on the situation. For sorting algorithms, the best case will always be O(0) meaning that the input list is already sorted, with the average and worst cases changing depending on the algorithm.

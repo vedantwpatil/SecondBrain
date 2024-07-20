@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 - Atomic Notes/Valid Anagram.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d43349b1a97a2d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Running Times.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Running Times.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Running Times.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md",
+                "file": "6 - Atomic Notes/Running Times.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Atomic Notes/Analyzing Algorithms.md"
+                "file": "6 - Atomic Notes/Running Times.md"
               }
             }
           }
@@ -200,11 +187,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d43349b1a97a2d4e",
+  "active": "f417711dc48df2d4",
   "lastOpenFiles": [
-    "6 - Atomic Notes/1721349414-QEFU.md",
-    "6 - Atomic Notes/Valid Anagram.md",
     "6 - Atomic Notes/Analyzing Algorithms.md",
+    "6 - Atomic Notes/Running Times.md",
+    "6 - Atomic Notes/Valid Anagram.md",
+    "6 - Atomic Notes/1721349414-QEFU.md",
     "6 - Atomic Notes/Introduction to Algorithms.md",
     "6 - Atomic Notes/Pokemon Cheats.md",
     "6 - Atomic Notes/2024-07-17.md",
@@ -228,7 +216,6 @@
     "6 - Atomic Notes/Pins.md",
     "6 - Atomic Notes/Chess.md",
     "6 - Atomic Notes/Divide and Conquer.md",
-    "6 - Atomic Notes/Group Anagrams.md",
     "The Role of Algorithms in Computing.pdf",
     "nvim"
   ]

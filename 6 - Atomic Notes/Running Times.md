@@ -6,7 +6,7 @@ tags: []
 ---
 
 # Running Times
-When analyzing algorithms it is important to have a concreate way of differentiating which one is better than the other. One of these ways of differentiating is running time and seeing how fast the algorithm runs in comparison to the other. 
+When analyzing algorithms it is important to have a concrete way of differentiating which one is better than the other. One of these ways of differentiating is running time and seeing how fast the algorithm runs in comparison to the other. 
 
 ### Different Ways of Evaluating Speed
 There are 3 different symboles we use to evalute the speed of an algorithm 
