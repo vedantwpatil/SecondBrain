@@ -1,3 +1,9 @@
+---
+id: Introduction to Algorithms
+aliases: []
+tags: []
+---
+
 2024-06-01 23:09
 
 Status: 
@@ -5,6 +11,8 @@ Status:
 Tags: 
 
 # Introduction to Algorithms
+
+This document will serve as something which will serve as a hub for all the content about the book introduction to algorithms
 
 **Definition:** This is the index for all the notes about the text introduction to algorithms, I am reading this book to become a better [[Software Engineer]]
 
