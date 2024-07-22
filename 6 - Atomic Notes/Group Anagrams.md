@@ -43,6 +43,7 @@ Output: [["a"]]
 ### Rough Work/Thought Process: 
 
 Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a hashmap
+
 ### Solution:
 ```python
 
@@ -62,3 +63,6 @@ class Solution(object):
             returnHash[tuple(count)].append(word)
         return returnHash.values()
 ```
+### Explaination: 
+
+

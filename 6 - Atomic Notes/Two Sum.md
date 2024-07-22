@@ -1,3 +1,9 @@
+---
+id: Two Sum
+aliases: []
+tags: []
+---
+
 2024-07-02 16:20
 
 Status: 
@@ -37,7 +43,7 @@ Output: [0,1]
 ```
 
 ### Constraints:
-- `2 <= nums.length <= 1000`
+- 2 <= `nums.length` <= 1000
 - `-10,000,000 <= nums[i] <= 10,000,000`
 - `-10,000,000 <= target <= 10,000,000`
 
@@ -56,7 +62,9 @@ class Solution(object):
 					return [i,j]
 		return []
 ```
-\
+
 #### Explanation:
 We need to go through the list of integers and find the indexes of the 2 elements which add up to the target value. We can do this by starting a loop through the list and starting a secondary loop which starts at the current index of the former loop while going to the end of the list. Then we just need to check if the indexes are not the same value and if the values at those indexes equal the target. If they do then we need to return those as the correct values as a list. If not then we return an empty list.
+
+#### Why does this work: 
 
