@@ -67,4 +67,4 @@ class Solution(object):
 ```
 ### Explanation: 
 
-In our code we create out hasmap and we count how many character in each word by using an array, we only need to worry about lowercase letters. We use `ord()` to find the ascii value of both of the characters to map it to the correct index.
+In our code we create out hasmap and we count how many character in each word by using an array, we only need to worry about lowercase letters so we only need 26 characters. We use `ord()` to find the ascii value of both of the characters to map it to the correct index. With this we then increament our count with the index being the ascii value of each letter. We then group all strings together which have the same amount of letters and append them to a hashMap. After this we then return those groups as our final string 

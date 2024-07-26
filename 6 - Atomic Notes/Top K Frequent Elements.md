@@ -37,6 +37,7 @@ Since we need to return the most k frequent amount of elements we should first c
 
 This problem uses the algorithm called [[Bucket Sort]] which allows this problem to be solved in linear time 
 Time Complexity: O(n)
+Memory Complexity: O(n)
 ```python
 class Solution(object):
     def topKFrequent(self, nums, k):
