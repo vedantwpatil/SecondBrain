@@ -42,9 +42,11 @@ Output: [["a"]]
 
 ### Rough Work/Thought Process: 
 
-Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a hashmap
+Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a hashmap and then group all the words with the same amount of letters together. 
 
+Not really sure on how to return the strings together 
 ### Solution:
+Time Complexity: O(m*n)
 ```python
 
 class Solution(object):
@@ -65,4 +67,4 @@ class Solution(object):
 ```
 ### Explanation: 
 
-877-835-1835
+In our code we create out hasmap and we count how many character in each word by using an array, we only need to worry about lowercase letters. We use `ord()` to find the ascii value of both of the characters to map it to the correct index.

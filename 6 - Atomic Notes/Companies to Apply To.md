@@ -1,3 +1,9 @@
+---
+id: Companies to Apply To
+aliases: []
+tags: []
+---
+
 2024-05-13 23:54
 
 Status: 
@@ -44,6 +50,8 @@ Become a software engineer is really hard, in order to become one people go to c
 27. **Dell** - Stable company with good benefits, though less innovative.
 28. **PECO** - Stable company in the utilities sector, though less innovative.
 29. **NASA** - High-impact work in space exploration, though more research-oriented and government-funded.
+30. **Antropic** - An AI research company that's part of the unicorn list and is known to offer internships in AI and machine learning
+31. **Stripe** - With a valuation of $50 billion, Stripe is a prominent fintech unicorn that provides excellent opportunities for software engineers interested in payment processing and financial technology.
 
 ## Resume 
 ![[NOT_FINISHED_VedantPatil_Fall Resume.pdf]]
