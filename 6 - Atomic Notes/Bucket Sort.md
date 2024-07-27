@@ -1,10 +1,8 @@
-2024-07-26 09:44
-
-Status: 
-
-Tags: 
+---
+id: Bucket Sort
+aliases: []
+tags: []
+---
 
 # Bucket Sort
 
-**Definition:**
-# Reference
