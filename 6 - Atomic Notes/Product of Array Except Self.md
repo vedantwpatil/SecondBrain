@@ -24,3 +24,7 @@ Output: [0,-6,0,0,0]
 ```
 ### Constraints: 
 
+- 2 <= `nums.length` <= 1000
+- 20 <= `nums[i]` <= 20
+
+
