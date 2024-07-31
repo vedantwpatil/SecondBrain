@@ -62,5 +62,5 @@ class Solution(object):
                 if len(res) == k:
                     return res
 ```
-### Explaination: 
+### Explanation: 
 We create a array with the index for each element being the amount of times the element has been in the phrase. We then need to return the array, while making the array we create it to be the length of our original array because you can't have more than elements than the length of the phrase. We then start at the end of the array and append the values into the array. While doing this we check to see if our new array is the size of `k` because we want the `k` most frequent elements. 
