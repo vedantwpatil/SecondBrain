@@ -30,4 +30,35 @@ Explaination: "tabcat" is not a palindrome
 ### Rough Work/Thought Process
 In order to check for the word being a palindrome we should use 2 seperate pointers to check the first and last letter to see if they align, by default we assume that the word is a palindrome and check to see if it is false. 
 
+### Solution:
+```python
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        # Convert to lowercase and remove non-alphanumeric characters
+        s = ''.join(char.lower() for char in s if char.isalnum())
+        
+        # Compare characters from both ends
+        left, right = 0, len(s) - 1
+        while left < right:
+            if s[left] != s[right]:
+                return False
+            left += 1
+            right -= 1
+        
+        return True
+```
 
+### Explaination: 
+We first need to change all the characters to the same case and remove all the non-alphanumeric characters. After this we then compare the two pointers to see if they have the same character, if they ever don't have the same character we then return false. If we loop through the entire thing and find they have the same characters throughtout, then it is a palindrome.
+
+The following code solution doesn't follow that algorithm and instead checks to see if we reverse the string that we get the same result. This is still a valid solution however a bit more advanced and not does not test the appropriate concepts.
+
+```python
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        new = ''
+        for letter in s:
+            if letter.isalpha() or letter.isdigit():
+                new += letter.lower()
+        return (new == new[::-1])
+```

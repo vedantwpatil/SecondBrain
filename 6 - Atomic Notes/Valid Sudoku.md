@@ -63,5 +63,37 @@ Explanation: There are two 1's in the top-left 3x3 sub-box
 
 ### Thought Process/Rough Work:
 
-This should need only diagonal check, horizontal check and vertical check to see if all the correct amount of numbers are in the grid and then to reference the entire row/col to see if the board is valid or not. 
+This should need only horizontal check and vertical check to see if all the correct amount of numbers are in the grid and then to reference the entire row/col to see if the board is valid or not. 
 
+The way we would check this is loop through the entire entry and add all the values to a hashset, if we add something and it returns false then we return false for the entire thing. Otherwise if we go through all our checks and there are no issues, we then return true. 
+
+Alternativly we could also add everything to the hashset and compare with the length of the hashset and the length of entrys but that would be unecessary and there is a more efficent way of doing it.
+
+### Solution: 
+Time Complexity: O(9^2)
+Space Complexity: O(9^2) 
+
+```python
+class Solution: 
+    def isValidSodoku(self, board: List[List[str]]) -> bool:
+        cols = collections.defaultdict(set)
+        rows = collections.defaultdict(set)
+        squares = collections.defaultdict(set) 
+
+        for r in range(9):
+            for c in range(9):
+                if board[r][c] == ".":
+                    continue
+                elif (board[r][c] in rows[r] or board[r][c] in cols[c] or board[r][c] in squares[(r//3, c//3)]):
+                    return False
+                cols[c].add(board[r][c])
+                rows[r].add(board[r][c])
+                squares[(r // 3, c //3)] .add(board[r][c])
+
+        return True
+```
+
+### Explaination:
+We create several hashsets because they are the most convenient data structure for this question. We go and loop through the entire board and check to see if the spot is empty or not, if it is empty then we can ignore it. If the spot is not empty we then check to see if it already exists in one of our hashsets, if it does we return false saying that this is not a valid soduku board and if it is true then we continue updating our hashset. Finally if we go through the entire board without finding any issue we then return true. 
+
+**Note:** We use r//3 and c//3 to be able to locate the different squares which are present in the grid. This way we are able to access each square and check if they contain duplicate elements in the same square. 
