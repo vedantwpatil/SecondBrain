@@ -1,8 +1,14 @@
+---
+id: Contains Duplicate
+aliases: []
+tags: []
+---
+
 2024-07-02 16:20
 
 Status: 
 
-Tags: #hashing #array 
+Tags: #hashing #array #easy
 
 # Contains Duplicate
 

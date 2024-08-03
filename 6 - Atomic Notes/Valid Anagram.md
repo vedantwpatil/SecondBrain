@@ -1,8 +1,14 @@
+---
+id: Valid Anagram
+aliases: []
+tags: []
+---
+
 2024-07-02 16:20
 
 Status: 
 
-Tags: #array #hashing 
+Tags: #array #hashing #easy
 
 # Valid Anagram
 
