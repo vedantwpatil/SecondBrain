@@ -39,7 +39,7 @@ Output: [["a"]]
 
 ### Rough Work/Thought Process: 
 
-Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a hashmap and then group all the words with the same amount of letters together. 
+Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a [[HashMap|hashmap]] and then group all the words with the same amount of letters together. 
 
 Not really sure on how to return the strings together 
 ### Solution:
@@ -64,4 +64,4 @@ class Solution(object):
 ```
 ### Explanation: 
 
-In our code we create out hashmap and we count how many character in each word by using an array, we only need to worry about lowercase letters so we only need 26 characters. We use `ord()` to find the ascii value of both of the characters to map it to the correct index. With this we then increment our count with the index being the ascii value of each letter. We then group all strings together which have the same amount of letters and append them to a hashMap. After this we then return those groups as our final string 
+In our code we create our [[Hash Tables|hashmap]] and we count how many character in each word by using an array, we only need to worry about lowercase letters so we only need 26 characters. We use `ord()` to find the ascii value of both of the characters to map it to the correct index. With this we then increment our count with the index being the ascii value of each letter. We then group all strings together which have the same amount of letters and append them to a hashMap. After this we then return those groups as our final string 
