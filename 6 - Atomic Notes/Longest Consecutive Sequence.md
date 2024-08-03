@@ -1,7 +1,10 @@
 ---
 id: Longest Consecutive Sequence
 aliases: []
-tags: []
+tags:
+  - medium
+  - array
+  - hashing
 ---
 
 2024-07-02 16:19

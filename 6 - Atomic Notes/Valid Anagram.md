@@ -1,15 +1,11 @@
 ---
 id: Valid Anagram
 aliases: []
-tags: []
+tags:
+  - easy
+  - array
+  - hashing
 ---
-
-2024-07-02 16:20
-
-Status: 
-
-Tags: #array #hashing #easy
-
 # Valid Anagram
 
 Given two strings `s` and `t`, return `true` *if* `t` *is an anagram of* `s`, and `false` otherwise
@@ -57,6 +53,6 @@ class Solution(object):
 ```
 
 #### Solution:
-We can use the data structure a [[HashMap]] where each value in the set contains a hash value which ensures that only unique values are in the set. 
+We can use the data structure a [[Hash Tables]] where each value in the set contains a hash value which ensures that only unique values are in the set. 
 
-To check if the two strings are anagrams of each other we first need to check if they are the same length, if they aren't its then impossible for them to be a solution of each other. After this we create 2 different [[HashMap]]s and add all the count of letters of each word. After this we can check if the letter counts of both words are equivaliant, if they are we return true that this is a anagram, if not we return false that this is not a anagram. 
+To check if the two strings are anagrams of each other we first need to check if they are the same length, if they aren't its then impossible for them to be a solution of each other. After this we create 2 different [[Hash Tables]]s and add all the count of letters of each word. After this we can check if the letter counts of both words are equivaliant, if they are we return true that this is a anagram, if not we return false that this is not a anagram. 

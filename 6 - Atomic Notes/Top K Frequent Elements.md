@@ -1,7 +1,10 @@
 ---
 id: Top K Frequent Elements
 aliases: []
-tags: []
+tags:
+  - array
+  - hashing
+  - medium
 ---
 
 2024-07-02 16:20

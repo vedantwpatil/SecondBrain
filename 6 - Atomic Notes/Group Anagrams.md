@@ -1,14 +1,11 @@
 ---
 id: Group Anagrams
 aliases: []
-tags: []
+tags:
+  - hashing
+  - array
+  - medium
 ---
-
-2024-07-02 16:20
-
-Status: 
-
-Tags: #hashing #array 
 
 # Group Anagrams
 

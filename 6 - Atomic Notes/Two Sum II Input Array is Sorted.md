@@ -1,7 +1,9 @@
 ---
 id: Two Sum II Input Array is Sorted
 aliases: []
-tags: []
+tags:
+  - twopointer
+  - medium
 ---
 
 2024-07-02 16:19

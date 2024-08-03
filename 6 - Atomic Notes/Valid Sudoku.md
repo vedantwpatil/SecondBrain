@@ -2,7 +2,10 @@
 id: Valid Sudoku
 aliases:
   - Valid Sudoku
-tags: []
+tags:
+  - array
+  - hashing
+  - medium
 ---
 
 2024-07-02 16:19

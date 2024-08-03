@@ -5,8 +5,30 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: easy",
+      "color": {
+        "a": 1,
+        "rgb": 12056252
+      }
+    },
+    {
+      "query": "tag: medium",
+      "color": {
+        "a": 1,
+        "rgb": 14596717
+      }
+    },
+    {
+      "query": "tag: hard",
+      "color": {
+        "a": 1,
+        "rgb": 11492709
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": -0.8,
@@ -17,6 +39,6 @@
   "repelStrength": 14.7216796875,
   "linkStrength": 0.750162760416667,
   "linkDistance": 215,
-  "scale": 0.27322686647411615,
+  "scale": 0.2307554906191377,
   "close": true
 }

@@ -1,14 +1,11 @@
 ---
 id: Contains Duplicate
 aliases: []
-tags: []
+tags:
+  - hashing
+  - easy
+  - array
 ---
-
-2024-07-02 16:20
-
-Status: 
-
-Tags: #hashing #array #easy
 
 # Contains Duplicate
 

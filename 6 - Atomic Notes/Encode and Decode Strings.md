@@ -2,7 +2,10 @@
 id: String Encode and Decode
 aliases:
   - String Encode and Decode
-tags: []
+tags:
+  - hashing
+  - array
+  - medium
 ---
 
 # String Encode and Decode

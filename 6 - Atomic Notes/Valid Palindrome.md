@@ -1,7 +1,9 @@
 ---
 id: Valid Palindrome
 aliases: []
-tags: []
+tags:
+  - twopointers
+  - easy
 ---
 
 # Valid Palindrome 
