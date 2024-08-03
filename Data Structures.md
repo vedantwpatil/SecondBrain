@@ -10,9 +10,9 @@ tags: []
 
 This note looks to be a index of all the data structures and hold the links to jump to any of them. 
 
-Data structures are a fundamental concept in computer science and programming which studys different ways to organize and store data. They provide a way to manage large amounts of information and optmize algorithms for better performance.
+Data structures are a fundamental concept in computer science and programming which study different ways to organize and store data. They provide a way to manage large amounts of information and optimize algorithms for better performance.
 
-### Typs of Data Structures
+### Types of Data Structures
 
 There are 2 main groups in data structures 
 
@@ -31,7 +31,7 @@ There are 2 main groups in data structures
 
 #### Arrays 
 
-[[Arrays]] are collections of elements sotred in contiguous memory locations. They provide fast access to elements useing indices but have a fixed size. 
+[[Arrays]] are collections of elements stored in contiguous memory locations. They provide fast access to elements using indices but have a fixed size. 
 
 #### Linked Lists
 
@@ -44,3 +44,32 @@ There are 2 main groups in data structures
 #### Queues
 
 [[Queues]] follow the First-In-First-Out principle. They are commonly used in scenarios like task scheduling and [[breadth-first-search]] algorithms. 
+
+#### Trees 
+
+[[Trees]] are hierarchical structures with a root node and child node. [[Binary Trees]], [[Binary Search Trees]], and balanced trees like [[Red-Black Tree]] and [[AVL]] are popular variants. 
+
+#### Graphs 
+
+[[Graphs]] consist of vertices (nodes) and edges connecting them. They are used to represent networks, relationships, and complex systems. 
+
+#### Hash Tables 
+
+[[Hash Tables]] provide fast insertion, deletion, and lookup operations using a hash function to map keys to array indices. 
+
+## Importance of Data Structures
+- Efficiency: Proper choice of data structures can significantly improve algorithm performance. 
+- Organization: They help in organizing and managing large amount of data effectively. 
+- Abstraction: Data structures provide a level of abstraction, allowing developers to focus on high-level operations. 
+- Re usability: Well-implemented data structures can be reused across different projects and applications. 
+
+### Choosing the Right Data Structure 
+
+Selecting the appropriate data structure depends on factors such as 
+- The type of data being stored 
+- The operations to be performed (e.g, frequent insertions, deletions, or searches)
+- Memory constraints
+- Time complexity requirements 
+
+Understanding the characteristics and trade-offs of different data structures is crucial for efficient algorithm design and implementation
+
