@@ -8,3 +8,6 @@ The main premise of obsidian is the file linking feature which allows for you to
 ### What is markdown
 Markdown as mentioned earlier is a langauge which allows for easy styling and customization of the file simply by using common comamnds such as # for the size of the text, ** for italizing and bolding and other features like - for a unordered list of items and || for tables 
 Markdown was invented primarily because writing in html is really frustrating and time consuming for simple documents, so markdown was invented to fill the gap in which html caused. Markdown is mainstream and is used by lots of corporations as standard to write their code in. 
+
+#### Note 
+A lot of the commits I have been making towards this repository has not been logged underneath my name due a mistake of commiting from my school email and not my personal one. There have been alot of commits which are not tagged towards me which is annoying but not that big of a deal. This makes it so I don't have as rich of a github history and the commit history on repositorys will be missing/cryptic.  
