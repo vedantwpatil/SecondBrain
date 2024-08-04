@@ -53,7 +53,7 @@ There are a bunch of topics which are considered to be important to know, I have
 ### Two Pointers
 [[Valid Palindrome]]
 [[Two Sum II Input Array is Sorted]]
-[[3Sum]]
+[[ThreeSum]]
 [[Container With Most Water]]
 [[Trapping Rain Water]]
 

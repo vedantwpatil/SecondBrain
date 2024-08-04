@@ -1,3 +1,9 @@
+---
+id: Personal Projects
+aliases: []
+tags: []
+---
+
 2024-05-07 00:38
 
 Status: 

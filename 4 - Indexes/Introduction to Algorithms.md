@@ -14,7 +14,7 @@ Tags:
 
 This document will serve as something which will serve as a hub for all the content about the book introduction to algorithms
 
-**Definition:** This is the index for all the notes about the text introduction to algorithms, I am reading this book to become a better [[Software Engineer]]
+**Definition:** This is the index for all the notes about the text introduction to algorithms, I am reading this book to become a better [[Software Engineer]] as to pass the interviews the most common thing that are asked are questions on [[Algorithms]] and [[Data Structures]]
 
 **General Knowledge:** 
 - The book uses a model named the RAM model which assumes a computer with a single processor that can perform basic arithmetic and bitwise operations 

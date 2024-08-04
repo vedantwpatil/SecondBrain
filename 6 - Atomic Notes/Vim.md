@@ -12,5 +12,7 @@ Tags: #cs #productivity
 - Currently I've been looking to learn vim as its something which is highly recommended in the software engineering space as something which is considered to be really useful.
 - I've tried getting through vim multiple times however I constantly find myself at a roadblock because of how difficult I find it to map my mind to the key binds and reconfigure my muscle memory 
 
+### Neovim:
+There is a more modern version of vim which is called [[Neovim]] something which a lot more people use because of the more rich plugin support and the easier barrier to entry
 
 # Reference

@@ -1,3 +1,9 @@
+---
+id: Soccer Analyst
+aliases: []
+tags: []
+---
+
 2024-07-03 16:52
 
 Status: 
@@ -8,6 +14,7 @@ Tags:
 
 **Definition:** This is a [[Personal Projects]] which I am working on during this summer. This aims to be a project which implements machine learning and the specific field of machine learning is [[Computer Vision]].
 
+This is a [[Personal Projects|personal project]] that will be made using [[Python|python]] and will be a machine learning project specialized in [[Computer Vision|computer vision]]. 
 ### Goal of the Project
 - I aim to put this on my resume and land a [[Software Engineer]] role
 - Learn more about [[Computer Vision]] and how to do [[Machine Learning]] in general 

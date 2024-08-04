@@ -1,10 +1,12 @@
-2024-07-02 16:25
-
-Status: 
-
-Tags: 
+---
+id: Surge
+aliases:
+  - Surge
+tags: []
+---
 
 # Surge
 
-**Definition:**
-# Reference
+An app which me and some friends created during a hackathon which is a app which we planned to build using the [[Swift|swift]] language. 
+
+

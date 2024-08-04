@@ -1,6 +1,12 @@
+---
+id: Chess
+aliases: []
+tags: []
+---
+
 2024-04-27 15:40
 
-Status: #baby 
+Status: 
 
 Tags: #cs #java #gui #game 
 

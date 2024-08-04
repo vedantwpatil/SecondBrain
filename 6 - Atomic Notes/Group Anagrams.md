@@ -39,7 +39,7 @@ Output: [["a"]]
 
 ### Rough Work/Thought Process: 
 
-Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a [[HashMap|hashmap]] and then group all the words with the same amount of letters together. 
+Since we are trying to make anagrams, we need to count how many letters are in each word and group those words together. We should go through the list, count the letters in a [[Hash Tables|hashmap]] and then group all the words with the same amount of letters together. 
 
 Not really sure on how to return the strings together 
 ### Solution:

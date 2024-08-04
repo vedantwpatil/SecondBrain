@@ -1,0 +1,1 @@
+Computers that are 'learning' something using [[Neural Networks]] and is probably a major part of being an [[AI Engineer]]

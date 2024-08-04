@@ -12,6 +12,7 @@ This note looks to be a index of all the data structures and hold the links to j
 
 Data structures are a fundamental concept in computer science and programming which study different ways to organize and store data. They provide a way to manage large amounts of information and optimize algorithms for better performance.
 
+This is something I think is valuable in learning in trying to become a [[Software Engineer]] as a concept often associated with [[Computer Science]] and [[Programming]] with each [[Programming Languages]] having their own way of implementing them. 
 ### Types of Data Structures
 
 There are 2 main groups in data structures 
