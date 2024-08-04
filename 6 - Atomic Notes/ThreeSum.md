@@ -20,7 +20,7 @@ Input: nums = [-1,0,1,2,-1,-4]
 Output: [[-1,-1,2],[-1,0,1]]
 ```
 
-Explaination: 
+Explanation: 
 ```python 
 nums[0] + nums[1] + nums[2] = (-1) + 0 + 1 = 0.
 nums[1] + nums[2] + nums[4] = 0 + 1 + (-1) = 0.
@@ -34,14 +34,14 @@ Input: nums = [0,1,1]
 Output: []
 ```
 
-Explaination: The only possible triplet does not sum up to 0 
+Explanation: The only possible triplet does not sum up to 0 
 
 ### Example 3: 
 ```python
 Input: nums = [0,0,0]
 Output: [[0,0,0]]
 ```
-Explaination: The only possible triplet sums up to 0 
+Explanation: The only possible triplet sums up to 0 
 
 ### Constraints: 
 ```python
@@ -50,9 +50,9 @@ Explaination: The only possible triplet sums up to 0
 ```
 ### Rough Work/ Thought Process 
  
-What we could do is write a triple loop which goes through and all the numbers together and then check to see if they have a target, however this is really inefficent and also allows for the possibility of duplicates although you might be able to remove them by using a [[HashSets|hashset]]. 
+What we could do is write a triple loop which goes through and all the numbers together and then check to see if they have a target, however this is really inefficient and also allows for the possibility of duplicates although you might be able to remove them by using a [[HashSets|hashset]]. 
 
-Another idea I had was converting the input array into a [[HashSets|hashset]] to be able to get rid of all the duplicates and then go through the list and add the numbers up. However this runs into the same issue where it is still really inefficent. 
+Another idea I had was converting the input array into a [[HashSets|hashset]] to be able to get rid of all the duplicates and then go through the list and add the numbers up. However this runs into the same issue where it is still really inefficient. 
 
 ### Solution: 
 ```python
