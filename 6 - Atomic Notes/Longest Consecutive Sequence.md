@@ -27,7 +27,7 @@ Input: nums = [2,20,4,10,3,4,5]
 Output: 4
 ```
 
-Explaination: The longest consecutive sequence is `[2, 3, 4, 5]`.
+Explanation: The longest consecutive sequence is `[2, 3, 4, 5]`.
 
 ### Example 2: 
 ```python
@@ -44,7 +44,7 @@ Output: 7
 
 At first thought I wanted to add all the elements to a hashset and see the longest consecutive sequence however it doesn't insert in order as well as I don't think that this would be fast enough to be in O(n) time. 
 
-My next thought process was thinking of using the [[Bucket Sort]] algorithm, I then searched up the solution and found that what we can do is take each value and check if the value that preceeds it is present in the set, if it is not then we know that this is the start of a sequence and can then check how many consecutive numbers are present in the array. If it is not the start of a sequence we don't make a sequence yet. 
+My next thought process was thinking of using the [[Bucket Sort]] algorithm, I then searched up the solution and found that what we can do is take each value and check if the value that precedes it is present in the set, if it is not then we know that this is the start of a sequence and can then check how many consecutive numbers are present in the array. If it is not the start of a sequence we don't make a sequence yet. 
 
 ### Solution:
 
@@ -65,7 +65,7 @@ class Solution:
 
 ```
 
-### Explaination:
+### Explanation:
 
-After visualizing the problem we can realize how to create sequences and then evaluate the longest sequence. We checked to see if the current value had a preceeding value and if it doesnt we know that it is the start of a sequence, we then keep checking if there are proceeding values in our array by adding the start of the sequence to the length. We then get the biggest value out of the length of that current sequence and compare it to the longest sequence we've found. 
+After visualizing the problem we can realize how to create sequences and then evaluate the longest sequence. We checked to see if the current value had a preceding value and if it doesn't we know that it is the start of a sequence, we then keep checking if there are proceeding values in our array by adding the start of the sequence to the length. We then get the biggest value out of the length of that current sequence and compare it to the longest sequence we've found. 
 
