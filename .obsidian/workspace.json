@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "129287f3a2836748",
+        "id": "4912c03419fe8710",
         "type": "tabs",
         "children": [
           {
-            "id": "51f8f08a48322615",
+            "id": "d401c2e3c5eabe7a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -178,8 +178,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "51f8f08a48322615",
+  "active": "d401c2e3c5eabe7a",
   "lastOpenFiles": [
+    "6 - Atomic Notes/Boolean Algebra.md",
+    "6 - Atomic Notes/Programming Languages.md",
+    "6 - Atomic Notes/Signed Magnitude.md",
+    "6 - Atomic Notes/Twos Complement.md",
+    "6 - Atomic Notes/Ones Complement.md",
+    "6 - Atomic Notes/Base 2.md",
+    "6 - Atomic Notes/Discrete Math.md",
+    "6 - Atomic Notes/Base 10.md",
     "6 - Atomic Notes/Machine Learning.md",
     "6 - Atomic Notes/Neural Networks.md",
     "6 - Atomic Notes/AI Engineer.md",
@@ -191,7 +199,6 @@
     "6 - Atomic Notes/Vim.md",
     "6 - Atomic Notes/Neovim.md",
     "6 - Atomic Notes/Surge.md",
-    "6 - Atomic Notes/Programming Languages.md",
     "1 - Rough Notes/Surge.md",
     "Surge.md",
     "6 - Atomic Notes/Kotlin.md",
@@ -199,13 +206,6 @@
     "6 - Atomic Notes/Go.md",
     "6 - Atomic Notes/Rust.md",
     "6 - Atomic Notes/C.md",
-    "6 - Atomic Notes/C++.md",
-    "6 - Atomic Notes/JavaScript.md",
-    "6 - Atomic Notes/Python.md",
-    "6 - Atomic Notes/Java.md",
-    "6 - Atomic Notes/Programming.md",
-    "6 - Atomic Notes/Chess.md",
-    "6 - Atomic Notes/Software Engineer.md",
     "6 - Atomic Notes/Soccer Analyst Roadmap.canvas",
     "The Role of Algorithms in Computing.pdf",
     "nvim"

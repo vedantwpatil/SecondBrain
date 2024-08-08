@@ -7,6 +7,7 @@ aliases:
   - hashmaps
   - Hashtable
   - hashtable
+  - hashmap
 tags: []
 ---
 

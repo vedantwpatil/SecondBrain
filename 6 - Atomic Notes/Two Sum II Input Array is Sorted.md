@@ -6,12 +6,6 @@ tags:
   - medium
 ---
 
-2024-07-02 16:19
-
-Status: 
-
-Tags: #twopointer 
-
 # Two Sum II Input Array is Sorted
 
 Given an array of integers `numbers` that is sorted in **non-decreasing order**. 
